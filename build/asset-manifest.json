@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-dnd5e-currency-conversor/static/css/main.073c9b0a.css",
+    "main.js": "/react-dnd5e-currency-conversor/static/js/main.2de3ce5a.js",
+    "static/js/787.28cb0dcd.chunk.js": "/react-dnd5e-currency-conversor/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/react-dnd5e-currency-conversor/index.html",
+    "main.073c9b0a.css.map": "/react-dnd5e-currency-conversor/static/css/main.073c9b0a.css.map",
+    "main.2de3ce5a.js.map": "/react-dnd5e-currency-conversor/static/js/main.2de3ce5a.js.map",
+    "787.28cb0dcd.chunk.js.map": "/react-dnd5e-currency-conversor/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.2de3ce5a.js"
+  ]
+}
